@@ -13,7 +13,7 @@ body {
     margin: 10px 0;
 }
 .score, .response {
-    font-size: 1.5em;
+    font-size: 1em;
     margin-top: 20px;
 }
 .feedback {
